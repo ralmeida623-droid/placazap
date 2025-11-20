@@ -1,0 +1,14 @@
+{
+  "name": "placazap",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "latest",
+    "expo-camera": "latest",
+    "expo-location": "latest",
+    "expo-file-system": "latest",
+    "expo-sharing": "latest",
+    "expo-mlkit-ocr": "latest",
+    "@react-native-async-storage/async-storage": "latest"
+  }
+}
